@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+# mizioko.com
+Please browse, enjoy & share the content of this site!
 
-You can use the [editor on GitHub](https://github.com/mizioko/mizioko.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+#### Check Regularly For new images, .gifs, and videos.
+
 
 ![image](mizioko.github.io/images/boo1.png)
 
