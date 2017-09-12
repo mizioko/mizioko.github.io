@@ -4,7 +4,7 @@ title:  "Welcome to Jekyll!"
 categories: jekyll update
 ---
 
-![logo](http://mizioko.github.io/_site/image/mtitile.jpg)
+![logo](http://mizioko.com/_site/image/mtitile.jpg)
 
 
 Jekyll also offers powerful support for code snippets:
