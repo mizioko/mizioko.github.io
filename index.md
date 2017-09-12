@@ -8,4 +8,4 @@ layout: home
 # Daniel Cat: 
 >Storm the Internet with Cute!
 
-![DanielCat]( )
+![DanielCat](http://mizioko.github.io/images/gifs/20170816_004403.gif)
