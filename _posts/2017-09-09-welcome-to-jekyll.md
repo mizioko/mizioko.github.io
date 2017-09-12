@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "it begins"
 categories: jekyll update
 ---
 
-![logo](http://mizioko.com/_site/image/mtitile.jpg)
+![logo](http://mizioko.com/images/mtitile.jpg)
 
 
 Jekyll also offers powerful support for code snippets:
