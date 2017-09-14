@@ -7,7 +7,7 @@ layout: default
 
 
 # Just Sayin
-![player](http://mizioko.github.io/images/gifs/Don't_hate.gif)
+![player](http://mizioko.github.io/images/gifs/Adobe_20170827_145209.jpg)
 
 
 # Daniel Cat 
