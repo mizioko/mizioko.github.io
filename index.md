@@ -5,10 +5,13 @@
 layout: default
 title: Home
 ---
-## Welcome
 
 
-# Daniel Cat: 
+# Just Sayin
+![player](http://mizioko.github.io/images/gifs/Don't hate.gif)
+
+
+# Daniel Cat 
 >Storm the Internet with Cute!
 
 ![DanielCat](http://mizioko.github.io/images/gifs/20170816_004403.gif)
