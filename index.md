@@ -6,6 +6,11 @@ layout: default
 title: Home
 ---
 
+# Becuase Lazer Eyes
+![lazer eye giff](http://mizioko.github.io/images/gifs/20170819_114356.gif)
+
+
+
 
 # Just Sayin
 ![player](http://mizioko.github.io/images/gifs/Adobe_20170827_145209.jpg)
