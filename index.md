@@ -6,7 +6,9 @@ layout: default
 title: Home
 ---
 
-# Becuase Lazer Eyes
+# Lazer Eye .gif?
+##WHAT!!!
+>make that death stare burn
 ![lazer eye giff](http://mizioko.github.io/images/gifs/20170819_114356.gif)
 
 
