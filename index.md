@@ -4,6 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 title: Home
+google_analytics: UA-106364788-1
 ---
 
 # Lazer Eye .gif?
