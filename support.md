@@ -4,7 +4,8 @@ title: Support
 permalink: /support/
 ---
 
-# mizioko.com Needs your Support!!!
+# mizioko.com 
+## Needs Your Support!!!
 
 If you enjoy what you see and would like to see more.
 Please select an amount below to support us.
