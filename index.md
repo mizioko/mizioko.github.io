@@ -7,6 +7,12 @@ title: Home
 google_analytics: UA-106364788-1
 ---
 
+## why say yes,
+# when you can say NO!
+
+![randy](http://mizioko.github.io/images/gifs/20170908_124557.gif)
+
+
 # Lazer Eye .gif?
 ## WHAT!!!
 >make that death stare burn
