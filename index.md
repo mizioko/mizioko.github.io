@@ -6,6 +6,9 @@ layout: default
 title: Home
 google_analytics: UA-106364788-1
 ---
+## dog is cute
+
+![tdog](http://mizioko.github.io/images/tdogall.png)
 
 ## why say yes,
 # when you can say NO!
