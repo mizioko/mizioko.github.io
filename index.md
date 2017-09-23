@@ -6,6 +6,11 @@ layout: default
 title: Home
 google_analytics: UA-106364788-1
 ---
+# ghostly 1
+
+![ghostly1](http://mizioko.github.io/images/cliche.png)
+
+
 ## dog is cute
 
 ![tdog](http://mizioko.github.io/images/tdogall.png)
@@ -26,13 +31,6 @@ google_analytics: UA-106364788-1
 Introducing a character that we simply refer to as… da Bomb. Like many of the .gif animations available to share for free on mizioko, da Bomb will be a playable character in our future endless runner game. It may be a bit of a stretch but we do hope to release the mobile game by February of 2018. 
 
 Look for coming page displaying the progress and animations for our first mobile game!
-
-
-# Just Sayin BOO!
-
-Page of Boo, hope to make a series of acceptably creepy Boos!
-![player](http://mizioko.github.io/images/gifs/Adobe_20170827_145209.jpg)
-
 
 # Daniel Cat 
 >Storm the Internet with Cute!
