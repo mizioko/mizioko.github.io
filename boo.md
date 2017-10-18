@@ -5,6 +5,11 @@ permalink: /boo/
 ---
 
 #boo!
+>smile your on boo camera
+
+
+![boo2](http://mizioko.github.io/images/boo22.png)
+
 >So many things to say....
 >So many awkward ways to say them....
 
