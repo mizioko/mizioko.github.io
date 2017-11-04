@@ -3,8 +3,12 @@ layout: default
 title: boo
 permalink: /boo/
 ---
+# the evolution continues
+![boo](http://mizioko.github.io/images/boonov.png)
+>Boo is truly the imbodiment of my unfiltered ADHD
 
-#boo!
+
+# boo!
 >smile your on boo camera
 
 
