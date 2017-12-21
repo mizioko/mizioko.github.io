@@ -6,6 +6,11 @@ layout: default
 title: Home
 google_analytics: UA-106364788-1
 ---
+
+# ghostly 3
+
+![ghostly3](http://mizioko.github.io/images/ghostly3a.png)
+
 # ghostly 2
 
 ![ghostly2](http://mizioko.github.io/images/ghostly2.png)
